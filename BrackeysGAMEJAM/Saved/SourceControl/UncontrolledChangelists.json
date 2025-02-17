@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ethan/OneDrive/Desktop/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/Characters/Ghost/Ghost_Input/IA_Move.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/Characters/Ghost/Ghost_Input/IA_Fly.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/Characters/Ghost/Ghost_Input/IA_Grab.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/Characters/Ghost/Ghost_Input/IM_Ghost.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/Characters/Ghost/BP_Ghost.uasset",
+				"C:/Users/ethan/OneDrive/Desktop/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/NewWorld.umap",
 				"C:/Users/omarm/OneDrive/Documents/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/NewWorld.umap",
 				"C:/Users/omarm/OneDrive/Documents/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/BP_Ghost.uasset",
 				"C:/Users/omarm/OneDrive/Documents/GitHub/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/Action/IM_Ghost.uasset",
