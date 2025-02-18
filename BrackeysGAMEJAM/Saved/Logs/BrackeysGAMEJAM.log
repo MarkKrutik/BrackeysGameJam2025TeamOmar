@@ -4013,3 +4013,89 @@ Sampler Limit: 32
 [2025.02.18-16.45.00:050][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17497.929688
 [2025.02.18-16.45.01:050][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.18-16.45.01:050][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17498.597656, Update Interval: 352.312988
+[2025.02.18-16.51.40:536][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17898.707031
+[2025.02.18-16.51.41:536][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.18-16.51.41:537][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17899.375000, Update Interval: 310.968353
+[2025.02.18-16.57.51:612][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18270.076172
+[2025.02.18-16.57.52:612][609]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.18-16.57.52:612][609]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18270.744141, Update Interval: 308.485352
+[2025.02.18-17.00.28:749][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.02.18-17.00.28:752][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewWorld' took 0.038
+[2025.02.18-17.00.28:753][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Ghost/BP_Ghost] ([2] browsable assets)...
+[2025.02.18-17.00.28:753][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Ghost/BP_Ghost]
+[2025.02.18-17.00.28:773][395]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Ghost/BP_Ghost_Auto8
+[2025.02.18-17.00.28:774][395]LogSavePackage: Moving '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/BP_Ghost_Auto84252B2FE43EC0A79229BA29CF7F90D7C.tmp' to '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/Autosaves/Game/Characters/Ghost/BP_Ghost_Auto8.uasset'
+[2025.02.18-17.00.28:775][395]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.02.18-17.00.37:453][422]LogDerivedDataCache: C:/Users/Sebastian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 43 files in 89 folders with total size 4 MiB.
+[2025.02.18-17.03.59:685][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18638.486328
+[2025.02.18-17.04.00:685][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.18-17.04.00:685][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18639.152344, Update Interval: 335.406342
+[2025.02.18-17.10.18:747][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19017.908203
+[2025.02.18-17.10.19:747][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.18-17.10.19:748][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19018.576172, Update Interval: 325.608093
+[2025.02.18-17.21.10:340][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19669.570312
+[2025.02.18-17.21.11:340][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.18-17.21.11:340][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19670.238281, Update Interval: 350.196228
+[2025.02.18-17.25.18:018][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.18-17.25.18:036][710]LogPlayLevel: [PlayLevel] Compiling Select_Actor_Interface before play...
+[2025.02.18-17.25.18:036][710]LogPlayLevel: [PlayLevel]   Compiling BP_Ghost as a dependent...
+[2025.02.18-17.25.18:160][710]LogPlayLevel: [PlayLevel] Compiling Parent_Selectable_Actor before play...
+[2025.02.18-17.25.18:160][710]LogPlayLevel: [PlayLevel]   Compiling TEST_Object as a dependent...
+[2025.02.18-17.25.18:226][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2025.02.18-17.25.18:236][710]LogPlayLevel: PlayLevel: Blueprint regeneration took 206 ms (4 blueprints)
+[2025.02.18-17.25.18:236][710]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewWorld
+[2025.02.18-17.25.18:238][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001817s)
+[2025.02.18-17.25.18:238][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewWorld.NewWorld to /Game/UEDPIE_0_NewWorld.NewWorld (0.001888s)
+[2025.02.18-17.25.18:261][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.18-17.25.18:263][710]LogChaosDD: Creating Chaos Debug Draw Scene for world NewWorld
+[2025.02.18-17.25.18:265][710]LogPlayLevel: PIE: World Init took: (0.001880s)
+[2025.02.18-17.25.18:266][710]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.02.18-17.25.18:266][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.18-17.25.18:266][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.18-17.25.18:266][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.18-17.25.18:266][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.18-17.25.18:266][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.18-17.25.18:266][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.18-17.25.18:266][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.18-17.25.18:266][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.18-17.25.18:266][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.18-17.25.18:266][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.18-17.25.18:266][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.18-17.25.18:268][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.18-17.25.18:285][710]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Beats Flex Stereo)
+[2025.02.18-17.25.18:285][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.18-17.25.18:285][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.18-17.25.18:285][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.18-17.25.18:286][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.02.18-17.25.18:286][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.02.18-17.25.18:288][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.02.18-17.25.18:288][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.02.18-17.25.18:288][710]LogInit: FAudioDevice initialized with ID 28.
+[2025.02.18-17.25.18:288][710]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewWorld'.
+[2025.02.18-17.25.18:289][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.02.18-17.25.18:294][710]LogLoad: Game class is 'GM_IForgotTheNameOfTheGame_C'
+[2025.02.18-17.25.18:295][710]LogWorld: Bringing World /Game/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2025.02.18-12.25.18
+[2025.02.18-17.25.18:295][710]LogWorld: Bringing up level for play took: 0.000861
+[2025.02.18-17.25.18:298][710]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.02.18-17.25.18:301][710]PIE: Server logged in
+[2025.02.18-17.25.18:302][710]PIE: Play in editor total start time 0.273 seconds.
+[2025.02.18-17.25.21:747][778]LogBlueprintUserMessages: [BP_Ghost_C_0] Object Detected
+[2025.02.18-17.25.21:747][778]LogBlueprintUserMessages: [BP_Ghost_C_0] Non Interactible
+[2025.02.18-17.25.22:297][811]LogBlueprintUserMessages: [BP_Ghost_C_0] Object Detected
+[2025.02.18-17.25.22:297][811]LogBlueprintUserMessages: [BP_Ghost_C_0] Already Highlighted
+[2025.02.18-17.25.24:863][965]LogBlueprintUserMessages: [BP_Ghost_C_0] Object Detected
+[2025.02.18-17.25.24:864][965]LogBlueprintUserMessages: [BP_Ghost_C_0] Non Interactible
+[2025.02.18-17.25.25:414][998]LogBlueprintUserMessages: [BP_Ghost_C_0] Object Detected
+[2025.02.18-17.25.25:414][998]LogBlueprintUserMessages: [BP_Ghost_C_0] Already Highlighted
+[2025.02.18-17.25.30:744][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.18-17.25.30:744][316]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewWorld
+[2025.02.18-17.25.30:744][316]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2025.02.18-17.25.30:744][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.18-17.25.30:749][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.18-17.25.30:755][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.18-17.25.30:777][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.18-17.25.30:777][316]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.02.18-17.25.30:777][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.02.18-17.25.30:779][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.02.18-17.25.30:787][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.02.18-17.25.31:048][317]LogPlayLevel: Display: Destroying online subsystem :Context_42
