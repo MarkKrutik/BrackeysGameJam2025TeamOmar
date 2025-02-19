@@ -2026,6 +2026,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.19-14.31.58:135][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10679.426758
 [2025.02.19-14.31.59:134][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.19-14.31.59:134][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10680.093750, Update Interval: 318.054749
+<<<<<<< Updated upstream
 [2025.02.19-14.37.47:474][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11028.712891
 [2025.02.19-14.37.48:474][840]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.19-14.37.48:475][840]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11029.379883, Update Interval: 338.402039
@@ -2254,3 +2255,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.19-14.44.38:511][568]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.02.19-14.44.38:550][568]LogExit: Exiting.
 [2025.02.19-14.44.38:594][568]Log file closed, 02/19/25 09:44:38
+=======
+>>>>>>> Stashed changes
