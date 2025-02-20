@@ -3074,3 +3074,200 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.20-16.50.35:563][ 33]LogHttp: Warning: 000004C2256EBD00: libcurl info message cache 34 (necessary data rewind wasn't possible)
 [2025.02.20-16.50.35:563][ 33]LogHttp: Warning: 000004C2256EBD00: libcurl info message cache 35 (Closing connection)
 [2025.02.20-16.50.35:563][ 33]LogHttp: Warning: 000004C2256EBD00: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.02.20-16.51.52:560][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10682.629883
+[2025.02.20-16.51.53:561][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.20-16.51.53:561][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10683.296875, Update Interval: 312.103638
+[2025.02.20-16.54.33:023][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-16.54.33:141][ 21]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GM_IForgotTheNameOfTheGame] ([2] browsable assets)...
+[2025.02.20-16.54.33:141][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/GM_IForgotTheNameOfTheGame]
+[2025.02.20-16.54.33:145][ 21]LogSavePackage: Moving output files for package: /Game/GM_IForgotTheNameOfTheGame
+[2025.02.20-16.54.33:146][ 21]LogSavePackage: Moving '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/GM_IForgotTheNameOfTheGame2B62C5D84D429C710A058B8FB58F53F9.tmp' to '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/GM_IForgotTheNameOfTheGame.uasset'
+[2025.02.20-16.54.33:161][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.674 ms (total: 995.413 ms)
+[2025.02.20-16.54.33:242][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-16.54.33:242][ 21]LogContentValidation: Enabled validators:
+[2025.02.20-16.54.33:243][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-16.54.33:243][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-16.54.33:243][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-16.54.33:243][ 21]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-16.54.33:243][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-16.54.33:243][ 21]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-16.54.33:244][ 21]AssetCheck: /Game/GM_IForgotTheNameOfTheGame Validating asset
+[2025.02.20-16.54.35:126][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-16.54.35:274][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.20-16.54.35:282][132]LogSavePackage: Moving output files for package: /Game/NewWorld2
+[2025.02.20-16.54.35:283][132]LogSavePackage: Moving '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/NewWorld2FCCC970040DA20385DCFF29A4CEB8959.tmp' to '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/NewWorld2.umap'
+[2025.02.20-16.54.35:305][132]LogFileHelpers: Saving map 'NewWorld2' took 0.104
+[2025.02.20-16.54.35:316][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.803 ms (total: 1.18 sec)
+[2025.02.20-16.54.35:391][132]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-16.54.35:391][132]LogContentValidation: Enabled validators:
+[2025.02.20-16.54.35:391][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-16.54.35:392][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-16.54.35:392][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-16.54.35:392][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-16.54.35:392][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-16.54.35:392][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-16.54.35:392][132]AssetCheck: /Game/NewWorld2 Validating asset
+[2025.02.20-16.54.37:997][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-16.54.38:065][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelManager] ([2] browsable assets)...
+[2025.02.20-16.54.38:065][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelManager]
+[2025.02.20-16.54.38:065][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelManager" FILE="../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset" SILENT=true
+[2025.02.20-16.54.38:072][285]LogSavePackage: Moving output files for package: /Game/LevelManager
+[2025.02.20-16.54.38:072][285]LogSavePackage: Moving '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/LevelManager6B293B3749D612AD9C83D1B587D5DA55.tmp' to '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset'
+[2025.02.20-16.54.38:080][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.739 ms (total: 1.26 sec)
+[2025.02.20-16.54.38:159][285]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-16.54.38:159][285]LogContentValidation: Enabled validators:
+[2025.02.20-16.54.38:159][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-16.54.38:159][285]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-16.54.38:159][285]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-16.54.38:159][285]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-16.54.38:159][285]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-16.54.38:159][285]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-16.54.38:159][285]AssetCheck: /Game/LevelManager Validating asset
+[2025.02.20-16.54.38:563][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-16.54.38:629][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelManager] ([2] browsable assets)...
+[2025.02.20-16.54.38:629][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelManager]
+[2025.02.20-16.54.38:629][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelManager" FILE="../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset" SILENT=true
+[2025.02.20-16.54.38:635][309]LogSavePackage: Moving output files for package: /Game/LevelManager
+[2025.02.20-16.54.38:636][309]LogSavePackage: Moving '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/LevelManagerB9591124489BB163B01A3CB11FC54D3F.tmp' to '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset'
+[2025.02.20-16.54.38:644][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.197 ms (total: 1.35 sec)
+[2025.02.20-16.54.38:714][309]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-16.54.38:714][309]LogContentValidation: Enabled validators:
+[2025.02.20-16.54.38:714][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-16.54.38:714][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-16.54.38:714][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-16.54.38:714][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-16.54.38:714][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-16.54.38:714][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-16.54.38:714][309]AssetCheck: /Game/LevelManager Validating asset
+[2025.02.20-16.54.38:983][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-16.54.39:055][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelManager] ([2] browsable assets)...
+[2025.02.20-16.54.39:055][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelManager]
+[2025.02.20-16.54.39:055][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelManager" FILE="../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset" SILENT=true
+[2025.02.20-16.54.39:061][325]LogSavePackage: Moving output files for package: /Game/LevelManager
+[2025.02.20-16.54.39:062][325]LogSavePackage: Moving '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/LevelManager770A2A0C46DEAD283050C68FFF869ECC.tmp' to '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset'
+[2025.02.20-16.54.39:070][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.190 ms (total: 1.43 sec)
+[2025.02.20-16.54.39:143][325]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-16.54.39:143][325]LogContentValidation: Enabled validators:
+[2025.02.20-16.54.39:143][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-16.54.39:143][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-16.54.39:143][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-16.54.39:143][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-16.54.39:143][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-16.54.39:143][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-16.54.39:144][325]AssetCheck: /Game/LevelManager Validating asset
+[2025.02.20-16.54.39:484][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.20-16.54.39:549][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelManager] ([2] browsable assets)...
+[2025.02.20-16.54.39:549][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelManager]
+[2025.02.20-16.54.39:549][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelManager" FILE="../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset" SILENT=true
+[2025.02.20-16.54.39:555][345]LogSavePackage: Moving output files for package: /Game/LevelManager
+[2025.02.20-16.54.39:556][345]LogSavePackage: Moving '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Saved/LevelManager02F3CE044999A67D9E1E0EBA6478F5F8.tmp' to '../../../../../../Users/Sebastian/Documents/GitHub/5/BrackeysGameJam2025TeamOmar/BrackeysGAMEJAM/Content/LevelManager.uasset'
+[2025.02.20-16.54.39:565][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.685 ms (total: 1.51 sec)
+[2025.02.20-16.54.39:637][345]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.20-16.54.39:637][345]LogContentValidation: Enabled validators:
+[2025.02.20-16.54.39:637][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.20-16.54.39:637][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.20-16.54.39:637][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.20-16.54.39:637][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.20-16.54.39:637][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.20-16.54.39:637][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.20-16.54.39:637][345]AssetCheck: /Game/LevelManager Validating asset
+[2025.02.20-16.54.45:795][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.20-16.54.45:881][712]LogStall: Shutdown...
+[2025.02.20-16.54.45:881][712]LogStall: Shutdown complete.
+[2025.02.20-16.54.46:062][712]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.46:063][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.46:530][712]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.20-16.54.46:530][712]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.46:530][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.46:683][712]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.20-16.54.46:683][712]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.46:683][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.46:780][712]LogSlate: Window 'Project Settings' being destroyed
+[2025.02.20-16.54.47:308][712]LogSlate: Window 'BrackeysGAMEJAM - Unreal Editor' being destroyed
+[2025.02.20-16.54.48:228][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.20-16.54.48:257][712]LogAutomationController: Ignoring very large delta of 2.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.20-16.54.48:258][712]Cmd: QUIT_EDITOR
+[2025.02.20-16.54.48:258][712]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.02.20-16.54.48:273][713]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.02.20-16.54.48:275][713]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.02.20-16.54.48:276][713]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.02.20-16.54.48:281][713]LogWorld: UWorld::CleanupWorld for NewWorld2, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:281][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:318][713]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.02.20-16.54.48:334][713]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.02.20-16.54.48:368][713]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:369][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:371][713]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:371][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:374][713]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:374][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:379][713]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:379][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:382][713]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:382][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:385][713]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:385][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:388][713]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.02.20-16.54.48:388][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.20-16.54.48:406][713]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.02.20-16.54.48:413][713]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.02.20-16.54.48:413][713]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.02.20-16.54.48:413][713]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.02.20-16.54.49:213][713]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.02.20-16.54.49:213][713]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.02.20-16.54.49:213][713]LogAudio: Display: Audio Device unregistered from world 'NewWorld2'.
+[2025.02.20-16.54.49:214][713]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.02.20-16.54.49:214][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.20-16.54.49:221][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.20-16.54.49:262][713]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.02.20-16.54.49:262][713]LogAudio: Display: Audio Device Manager Shutdown
+[2025.02.20-16.54.49:264][713]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.02.20-16.54.49:273][713]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.20-16.54.49:274][713]LogExit: Preparing to exit.
+[2025.02.20-16.54.49:369][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.20-16.54.49:372][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:372][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:383][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:385][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.49:386][713]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.20-16.54.50:174][713]LogEditorDataStorage: Deinitializing
+[2025.02.20-16.54.50:750][713]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.02.20-16.54.50:947][713]LogExit: Editor shut down
+[2025.02.20-16.54.50:973][713]LogExit: Transaction tracking system shut down
+[2025.02.20-16.54.52:314][713]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 7.
+[2025.02.20-16.54.52:433][713]LogExit: Object subsystem successfully closed.
+[2025.02.20-16.54.52:478][713]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.20-16.54.53:078][713]LogMemoryProfiler: Shutdown
+[2025.02.20-16.54.53:079][713]LogNetworkingProfiler: Shutdown
+[2025.02.20-16.54.53:079][713]LoadingProfiler: Shutdown
+[2025.02.20-16.54.53:079][713]LogTimingProfiler: Shutdown
+[2025.02.20-16.54.54:625][713]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.02.20-16.54.54:668][713]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.02.20-16.54.54:669][713]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66D5D4CA-4792-EAF3-5F24-C396EF75EB5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=dd6dbf9f43940dd597364ea94f1d1fc8%7C3bcecbc5d2354c3182dbdb98ed79ea8c%7Cd4a5cf52-aad2-46d8-a07c-05ffe6446495&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.02.20-16.54.55:234][713]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.02.20-16.54.55:245][713]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.02.20-16.54.55:246][713]LogNFORDenoise: NFORDenoise function shutting down
+[2025.02.20-16.54.55:247][713]RenderDocPlugin: plugin has been unloaded.
+[2025.02.20-16.54.55:254][713]LogXGEController: Cleaning working directory: C:/Users/Sebastian/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.02.20-16.54.55:273][713]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.02.20-16.54.55:273][713]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.02.20-16.54.55:275][713]LogPakFile: Destroying PakPlatformFile
+[2025.02.20-16.54.56:938][713]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.20-16.54.57:012][713]LogExit: Exiting.
+[2025.02.20-16.54.57:076][713]Log file closed, 02/20/25 11:54:57
